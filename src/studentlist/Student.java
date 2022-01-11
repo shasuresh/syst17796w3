@@ -7,7 +7,7 @@ package studentlist;
 
 /**
  *
- * @author Megha Patel
+ * @author Megha Patel,2022
  */
 public class Student {
     
